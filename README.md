@@ -1,4 +1,4 @@
-# RainbowLog
+# DanishLog
 GET YOUR CONSOLE LOGS IN DANISH COLORS
 
 # Usage
