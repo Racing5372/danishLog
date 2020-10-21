@@ -1,0 +1,28 @@
+{
+  "name": "@andreasrisager/danishlog",
+  "version": "1.0.0",
+  "description": "Make your console log write in danish colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andreas-Org/danishLog.git"
+  },
+  "keywords": [
+    "danish",
+    "colors",
+    "console",
+    "consolelog",
+    "danishlog",
+    "red",
+    "white"
+  ],
+  "author": "AndreasRisager & Lupe.-",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andreas-Org/danishLog/issues"
+  },
+  "homepage": "https://github.com/Andreas-Org/danishLog#readme"
+}
