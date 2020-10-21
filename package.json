@@ -1,6 +1,6 @@
 {
   "name": "@andreasrisager/danishlog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make your console log write in danish colors",
   "main": "index.js",
   "scripts": {
