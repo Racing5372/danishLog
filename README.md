@@ -1,3 +1,4 @@
+![Danish colors](https://i.imgur.com/fX0SFxK.png)
 # DanishLog
 GET YOUR CONSOLE LOGS IN DANISH COLORS
 
